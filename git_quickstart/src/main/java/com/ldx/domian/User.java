@@ -7,4 +7,6 @@ package com.ldx.domian;
 public class User {
     private String username;
     private Integer age;
+    private String phone;
+
 }
